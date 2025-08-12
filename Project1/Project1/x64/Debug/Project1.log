@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\asus\source\repos\project1\x64\debug\project1.exe' is denied.
+  25MAI0079_main.cpp
+C:\Users\ASUS\source\repos\Project1\Project1\25MAI0079_main.cpp(101,13): error C3861: 'fn_num_square_srl': identifier not found
+C:\Users\ASUS\source\repos\Project1\Project1\25MAI0079_main.cpp(104,13): error C3861: 'fn_num_square_prl': identifier not found
+C:\Users\ASUS\source\repos\Project1\Project1\25MAI0079_main.cpp(107,13): error C3861: 'fn_num_square_speedup_efficiency': identifier not found
