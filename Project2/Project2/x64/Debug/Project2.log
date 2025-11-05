@@ -1,0 +1,38 @@
+﻿  25MAI0079_maincpp.cpp
+C:\Users\ASUS\source\repos\Project2\Project2\040_card_game.h(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\050_bakery_order_system.h(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_constructs.h(22,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_constructs.h(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_critical.h(22,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_critical.h(23,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_reduction.h(9,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\060_Data_env_reduction.h(10,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\traffic_analyser.h(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\traffic_analyser.h(24,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\traffic_analyser.h(44,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+C:\Users\ASUS\source\repos\Project2\Project2\traffic_analyser.h(45,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '25MAI0079_maincpp.cpp')
+  
+  Project2.vcxproj -> C:\Users\ASUS\source\repos\Project2\x64\Debug\Project2.exe
